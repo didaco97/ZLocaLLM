@@ -7,8 +7,11 @@ A minimal web interface for interacting with the [WizardLM-7B-Uncensored](https:
 - Simple chat interface
 - Adjustable generation parameters
 - Responsive design
+- Kaggle notebook compatibility
 
-## Setup
+## Setup Options
+
+### Option 1: Web Application
 
 1. Clone this repository:
    ```
@@ -27,6 +30,12 @@ A minimal web interface for interacting with the [WizardLM-7B-Uncensored](https:
    ```
 
 4. Open your browser and navigate to `http://localhost:5000`
+
+### Option 2: Kaggle Notebook
+
+1. Upload the `kaggle_wizardlm.ipynb` file to Kaggle
+2. Make sure to enable GPU acceleration in the notebook settings
+3. Run all cells to start the interface
 
 ## Deployment on Codesphere
 
