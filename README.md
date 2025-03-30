@@ -15,7 +15,7 @@ A minimal web interface for interacting with the [WizardLM-7B-Uncensored](https:
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/wizardlm-uncensored-interface.git
+   git clone https://github.com/didaco97/wizardlm-uncensored-interface.git
    cd wizardlm-uncensored-interface
    ```
 
